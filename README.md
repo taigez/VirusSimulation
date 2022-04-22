@@ -1,6 +1,6 @@
 # CS 225 Final Project
 
-## Team Members: Xin Yi Huang, Tommy Kimura, Run Zhong Li, Taige Zhang
+## Team Members: Taige Zhang, Xin Yi Huang, Tommy Kimura, Run Zhong Li, 
 
 ### Motivation
 
